@@ -1,0 +1,5 @@
+
+Opython:S5806"+Rename this variable; it shadows a builtin.(§Öºşüÿÿÿÿ8ÚùŞÄş0
+Ipython:S1481"%Remove the unused local variable "n".(Ğùïˆûÿÿÿÿ8ÛùŞÄş0
+Dpython:S1481"%Remove the unused local variable "n".(õîà8ÛùŞÄş0
+Bpython:S125"Remove this commented out code.(ëßˆâşÿÿÿÿ8ÛùŞÄş0
